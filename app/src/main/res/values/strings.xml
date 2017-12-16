@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="hello">Hello World, UsingSQLite!</string>
+    <string name="app_name">AssignmenttyEleven</string>
+
+
+    <string name="products">SEARCHPRODUCTS</string>
+</resources>
